@@ -1,4 +1,4 @@
-# movie-recommendation-java
+# Simplified movie recommendation system
 A DIY version of a simple movie recommendation system in Java. 
 
 ## Introduction
