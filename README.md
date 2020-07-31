@@ -13,3 +13,13 @@ Given input files on users ratings and movie titles:
 3. Calculate how similar a given rater is to another user based on ratings and
 4. Recommend movies to a given user based on ratings. 
 5. Display recommended movies for a given user on a webpage.
+
+
+ <table>
+     <tr>
+       <td border=1><a href = "https://www.dukelearntoprogram.com//capstone/recommender.php?id=yo7ckpz91HvXMP"><b>Rate Movie</b></a><br><a href="https://www.dukelearntoprogram.com//capstone/recommender.php?id=yo7ckpz91HvXMP"><img src="https://github.com/LotaIbe/movie-recommendation-system/blob/master/images/Annotation%202020-07-31%20034622.jpg" /></a> </td>
+       <tr>
+         <tr>
+       <td border=1><a href ="https://www.dukelearntoprogram.com//capstone/recommender.php?id=yo7ckpz91HvXMP"><b>Recommendation</b></a><br><a href="https://www.dukelearntoprogram.com//capstone/recommender.php?id=yo7ckpz91HvXMP"><img src="https://github.com/LotaIbe/movie-recommendation-system/blob/master/images/Annotation%202020-07-31%20034749.jpg" /></a></td>
+     <tr>
+   </table>
