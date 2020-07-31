@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DirectorsFilter
+comment0.text=\r\n\ @author\ (Lota\ Ibe)\ \r\n\ @version\ (July\ 2020)\r\n
+comment1.params=director
+comment1.target=DirectorsFilter(java.lang.String)
+comment2.params=id
+comment2.target=boolean\ satisfies(java.lang.String)
+numComments=3
